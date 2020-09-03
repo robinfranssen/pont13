@@ -72,4 +72,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Breakdown-schets(en):**
 
+<img src="images/Schermafbeelding%202020-09-03%20om%2017.50.01.png">
+<img src="images/Schermafbeelding%202020-09-03%20om%2017.50.10.png">
+<img src="images/Schermafbeelding%202020-09-03%20om%2017.50.29.png">
+
+
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
